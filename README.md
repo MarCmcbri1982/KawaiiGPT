@@ -32,19 +32,6 @@ The tool supports backend LLMs including **DeepSeek**, **Gemini**, and **Kimi-K2
 
 > **Note:** KawaiiGPT is not a proprietary model — it is a jailbreak wrapper that proxies requests to existing LLMs through reverse-engineered API endpoints.
 
----
-
-## Official Links
-
-| # | Resource | Link |
-|:-:|----------|------|
-| 1 | GitHub Repository | [github.com/MrSanZz/KawaiiGPT](https://github.com/MrSanZz/KawaiiGPT) |
-| 2 | Pollinations API (Backend) | [github.com/pollinations/pollinations](https://github.com/pollinations/pollinations) |
-| 3 | Pollinations Platform | [pollinations.ai](https://pollinations.ai/) |
-| 4 | Telegram Community | Linked in repository |
-
----
-
 ## Features
 
 <table>
