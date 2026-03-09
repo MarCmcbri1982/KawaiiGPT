@@ -14,9 +14,7 @@ KawaiiGPT — Open-source LLM gateway accessing DeepSeek, Gemini, and Kimi-K2 th
 ```
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License](https://img.shields.io/badge/License-Open_Source-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux_%7C_Termux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://termux.dev)
-[![Stars](https://img.shields.io/github/stars/MrSanZz/KawaiiGPT?style=for-the-badge&logo=github)](https://github.com/MrSanZz/KawaiiGPT)
 
 **Open-source LLM gateway — access DeepSeek, Gemini, Kimi-K2 and more through reverse-engineered Pollinations API**
 
